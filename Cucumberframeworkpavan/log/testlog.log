@@ -1,0 +1,281 @@
+2021-01-01 15:59:36,986 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 15:59:40,946 - nopComerce -INFO - **************Launching url***********
+2021-01-01 15:59:42,094 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 15:59:42,601 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:00:10,802 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:00:10,803 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:00:19,089 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:00:29,977 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:00:36,749 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:00:40,314 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:00:41,457 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:00:42,065 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:01:04,293 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-01 16:01:08,247 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:01:15,366 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:01:18,850 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:01:20,129 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:01:21,167 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:01:45,609 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 16:01:49,481 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:03:39,896 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:03:44,014 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:03:45,333 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:03:46,171 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:04:16,135 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:04:16,135 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:04:24,346 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:04:32,381 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:04:38,626 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:04:43,395 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:04:44,761 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:04:45,202 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:05:04,375 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:05:08,741 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:05:10,004 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:05:10,525 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:05:33,760 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 16:05:37,764 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:05:44,557 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:05:48,754 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:05:49,984 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:05:50,420 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:05:57,613 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:06:03,796 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:06:03,832 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:06:14,931 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:06:20,136 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:06:21,586 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:06:22,244 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:06:32,496 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:06:39,396 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:06:39,403 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:06:45,364 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:06:50,532 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:06:52,468 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:06:53,186 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:06:56,149 - nopComerce -INFO - **************Login passed***********
+2021-01-01 16:31:04,603 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:31:12,380 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:31:13,722 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:31:14,341 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:31:41,903 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:31:41,906 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:31:50,205 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:31:59,097 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:32:05,858 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:32:09,303 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:32:10,582 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:32:11,248 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:32:30,411 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-01 16:32:34,287 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:32:42,455 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:32:46,541 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:32:47,933 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:32:48,502 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:33:09,605 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 16:33:13,647 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:40:04,252 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:40:11,179 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:40:12,484 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:40:13,053 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:40:46,098 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:40:46,098 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:40:54,801 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:41:03,703 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:42:00,451 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:42:07,856 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:42:09,215 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:42:10,225 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:42:37,378 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:42:37,381 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:42:45,047 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:42:55,159 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:43:01,151 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:43:04,929 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:43:06,229 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:43:06,628 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:43:14,316 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:43:19,857 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:43:19,864 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:56:36,922 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:56:40,997 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:56:42,314 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:56:42,799 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:57:04,816 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 16:57:04,816 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 16:57:12,132 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 16:57:19,175 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 16:57:26,818 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 16:57:30,578 - nopComerce -INFO - **************Launching url***********
+2021-01-01 16:57:31,948 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 16:57:32,620 - nopComerce -INFO - *************Started login***********
+2021-01-01 16:57:40,664 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:57:45,619 - nopComerce -INFO - **************Login failed***********
+2021-01-01 16:57:45,628 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:00:09,638 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:00:14,621 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:00:15,900 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:00:16,311 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:00:45,266 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 17:00:45,268 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 17:00:53,132 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 17:00:58,740 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:01:04,659 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:01:07,155 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:01:08,377 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:01:09,124 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:01:15,395 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:01:20,942 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:01:20,948 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:04:34,380 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:04:38,505 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:04:40,008 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:04:40,525 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:05:08,159 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 17:05:08,161 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 17:05:16,904 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 17:05:24,762 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:05:29,963 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:05:34,260 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:05:35,536 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:05:35,970 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:06:04,543 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-01 17:06:08,091 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:06:13,914 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:06:17,733 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:06:18,867 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:06:19,336 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:07:13,812 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 17:07:20,796 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:08:03,772 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:08:04,913 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:08:09,541 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:09:08,165 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:09:09,317 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:09:09,616 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:09:18,502 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:09:24,725 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:09:24,731 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:09:29,761 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:09:34,740 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:09:36,033 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:09:36,551 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:09:41,252 - nopComerce -INFO - **************Login passed***********
+2021-01-01 17:24:45,349 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:24:48,885 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:24:50,051 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:24:50,655 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:25:25,161 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 17:25:25,162 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 17:25:32,701 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 17:25:39,685 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:25:45,489 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:25:49,453 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:25:50,592 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:25:50,905 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:26:11,931 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-01 17:26:15,467 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:26:19,680 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:26:23,349 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:26:24,480 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:26:24,846 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:26:49,275 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 17:26:53,073 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:26:57,287 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:27:00,372 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:27:01,568 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:27:01,878 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:27:08,149 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:27:14,110 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:27:14,117 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:27:18,922 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:27:22,437 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:27:23,738 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:27:24,215 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:27:34,959 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:27:40,743 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:27:40,749 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:27:44,631 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:27:47,634 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:27:48,804 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:27:49,157 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:27:51,307 - nopComerce -INFO - **************Login passed***********
+2021-01-01 17:36:02,655 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:36:09,076 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:36:10,268 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:36:10,736 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:36:35,499 - nopComerce -INFO - **************Adding new customer***********
+2021-01-01 17:36:35,499 - nopComerce -INFO - **************Providing customer details***********
+2021-01-01 17:36:42,895 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-01 17:36:51,290 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:36:57,218 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:37:03,042 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:37:04,185 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:37:04,655 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:37:30,997 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-01 17:37:34,613 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:37:39,523 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:37:43,391 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:37:45,213 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:37:45,741 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:38:05,634 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-01 17:38:09,322 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:38:15,275 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:38:19,363 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:38:20,532 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:38:20,862 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:38:26,487 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:38:32,191 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:38:32,196 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:38:38,149 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:38:41,496 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:38:42,690 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:38:43,029 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:38:51,245 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:38:58,284 - nopComerce -INFO - **************Login failed***********
+2021-01-01 17:38:58,289 - nopComerce -INFO - **************Closing browser***********
+2021-01-01 17:39:06,437 - nopComerce -INFO - **************Launching browser***********
+2021-01-01 17:39:11,058 - nopComerce -INFO - **************Launching url***********
+2021-01-01 17:39:12,202 - nopComerce -INFO - **************Providing login details***********
+2021-01-01 17:39:12,717 - nopComerce -INFO - *************Started login***********
+2021-01-01 17:39:15,273 - nopComerce -INFO - **************Login passed***********
+2021-01-02 19:04:21,464 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:04:29,188 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:04:30,493 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:04:31,316 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:05:07,732 - nopComerce -INFO - **************Adding new customer***********
+2021-01-02 19:05:07,732 - nopComerce -INFO - **************Providing customer details***********
+2021-01-02 19:05:15,208 - nopComerce -INFO - **************Saving customer data ***********
+2021-01-02 19:05:34,851 - nopComerce -INFO - **************Closing browser***********
+2021-01-02 19:05:40,422 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:05:43,914 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:05:45,194 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:05:45,547 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:06:17,993 - nopComerce -INFO - **************Searching customer using email id ***********
+2021-01-02 19:06:21,621 - nopComerce -INFO - **************Closing browser***********
+2021-01-02 19:06:26,830 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:06:31,304 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:06:32,463 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:06:32,856 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:07:01,026 - nopComerce -INFO - **************Searching customer by name ***********
+2021-01-02 19:07:04,835 - nopComerce -INFO - **************Closing browser***********
+2021-01-02 19:07:10,601 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:07:15,854 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:07:16,995 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:07:17,433 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:07:29,314 - nopComerce -INFO - **************Login failed***********
+2021-01-02 19:07:35,976 - nopComerce -INFO - **************Login failed***********
+2021-01-02 19:07:35,984 - nopComerce -INFO - **************Closing browser***********
+2021-01-02 19:07:41,391 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:07:47,949 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:07:49,087 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:07:49,532 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:08:00,796 - nopComerce -INFO - **************Login failed***********
+2021-01-02 19:08:06,813 - nopComerce -INFO - **************Login failed***********
+2021-01-02 19:08:06,819 - nopComerce -INFO - **************Closing browser***********
+2021-01-02 19:08:13,071 - nopComerce -INFO - **************Launching browser***********
+2021-01-02 19:08:17,511 - nopComerce -INFO - **************Launching url***********
+2021-01-02 19:08:18,736 - nopComerce -INFO - **************Providing login details***********
+2021-01-02 19:08:19,142 - nopComerce -INFO - *************Started login***********
+2021-01-02 19:08:21,853 - nopComerce -INFO - **************Login passed***********
